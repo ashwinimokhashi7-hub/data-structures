@@ -16,3 +16,6 @@ https://www.programiz.com/online-compiler/6Z2K88UjCc0yb
 
 LIST
 https://www.programiz.com/online-compiler/9PObv49yzlo6u
+
+Scenario based program - LL
+https://www.programiz.com/online-compiler/33e9Xx9TsJfTi
